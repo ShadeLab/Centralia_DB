@@ -1,6 +1,6 @@
 # Centralia_DB
 
-SQL database of all historical GLBRC Metadata from 2014 through 2018. 
+SQL database of all metadata for soils and isolates from Centralia PA including years 2014 through 2021. 
 
 Recommend [SQLiteStudio](https://sqlitestudio.pl/index.rvt) for accessing database
 
